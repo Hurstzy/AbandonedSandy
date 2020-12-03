@@ -8,5 +8,5 @@ Move AbandonedSandy to your resources folder
 <br>
 Add "start AbandonedSandy to your server.cfg
 
-# Installation
+# Disclaimer
 To clear up any confusion I based this map off of a previous abandoned sandy shores release, when I went to download that release I had realized it was taken down so I then made my own.
