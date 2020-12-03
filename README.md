@@ -3,5 +3,7 @@ I created this map a while ago to solve our issue with players clustering in San
 
 # Installation
 Download the resource
+<br>
 Move AbandonedSandy to your resources folder
+<br>
 Add "start AbandonedSandy to your server.cfg
